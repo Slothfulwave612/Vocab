@@ -2,14 +2,14 @@
 
 The project Vocab contains four files :-
 
-1. gameDictFile.py :- it contains all the words and their meaning inside a dictionary.
+    1. gameDictFile.py :- it contains all the words and their meaning inside a dictionary.
 
-2. gameException.py :- it contains all the user defined exception, these exceptions are used in the main code time to time 
+    2. gameException.py :- it contains all the user defined exception, these exceptions are used in the main code time to time 
                        when needed.
                        
-3. gameFunction.py :- it contains the class which contains various functions, which is there for the program executions from                         playing the game to displaying the score in a tablular format.
+    3. gameFunction.py :- it contains the class which contains various functions, which is there for the program executions from                         playing the game to displaying the score in a tablular format.
 
-4. gameMenu.py :- it contains our main menu all and the linking to the functions are done in this file. gameFunction.py file is                   linked as it contains our main code.
+    4. gameMenu.py :- it contains our main menu all and the linking to the functions are done in this file. gameFunction.py file is                   linked as it contains our main code.
 
 ** NOTE :- In order to see the execution of the program, you have to run gameMenu.py file as it is our main file where all the            functions are linked.
 
